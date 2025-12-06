@@ -1,14 +1,14 @@
 # Portfolio
 # Carter Pratt - Learning Journey
-Welcome!
-This repository documents my ongoing growth in:
+Welcome! This repository documents my ongoing growth in:
+
 -IT support
 -Cybersecurity fundamentals
 -process imporvement and Lean Six Sigam
 -Supply chain learning
 -Professional development
 
-## what this repo includes
+## What This Repo Includes
 -study notes and reflections
 -Practice labs and hands-on exercises
 -Certification progress
