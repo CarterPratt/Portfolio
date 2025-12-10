@@ -92,5 +92,5 @@ https://github.com/CarterPratt/PowerShell-Labs
 
 ## Contact
 
-LinkedIn: https://www.linkedln.com/in/carter-pratt-476963222/
+LinkedIn: https://www.linkedln.com/in/carter-pratt-476963222/  
 GitHub: https://github.com/CarterPratt
